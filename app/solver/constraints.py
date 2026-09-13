@@ -1,0 +1,9 @@
+"""Named weight policy for CP-SAT hard and soft constraints."""
+W_TEACHER_GAP = 10
+W_CLASS_GAP = 5
+W_SATURDAY = 8
+W_PREFERENCE = 15
+W_TEACHER_PREF = 12
+W_CONSECUTIVE = 20
+W_DISTURBANCE = 1000
+W_AI_PREFERENCE = 2
